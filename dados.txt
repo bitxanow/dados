@@ -1,3 +1,4 @@
+teste@email.com | Disney | 291864 | Hbo Max | 282730
 ahnentabsnyn@gmail.com | Netflix | 551071
 alinee56souzaaa@gmail.com | Disney | 291864 | Hbo Max | 282730
 and335210@gmail.com | Netflix | 2476996
@@ -155,5 +156,4 @@ rafaelbmiloch@gmail.com
 tranquilosuave659@gmail.com
 giovane7@gmail.com
 contatocomercial.lowzx@gmail.com
-teste@email.com
 gabrielbatistabp798988@gmail.com
